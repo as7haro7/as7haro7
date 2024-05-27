@@ -1,5 +1,10 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @as7haro7  
+- 👀 I’m interesed in Python and ML 
+- 📖 I’m currently learning JS and TS
+- 🤔 I’m looking collabore on OSS
+- 📫 How to reach me: erickbreack72@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Fulled By ramen
 <!--
 **as7haro7/as7haro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
